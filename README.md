@@ -1,3 +1,3 @@
-# udemy-REACT-QUERY
+# react-query学習用
 
-Code to support the Udemy course [React Query: Server State Management in React](https://www.udemy.com/course/learn-react-query/?couponCode=REACT-QUERY-GITHUB)
+forked from [bonnie/udemy-REACT-QUERY](https://github.com/bonnie/udemy-REACT-QUERY)
